@@ -14,6 +14,7 @@
       { "type": "docs:api", "section": "API Documentation" },
       { "type": "docs:readme", "section": "README Documentation" },
       { "type": "refactor", "section": "Code Refactoring" },
+      { "type": "destroy", "section": "Infrastructure Destroy" },
       { "type": "docs", "section": "Documentation" },
       { "type": "chore", "section": "Miscellaneous Chores", "hidden": false },
       { "type": "build", "section": "Build System", "hidden": true },
