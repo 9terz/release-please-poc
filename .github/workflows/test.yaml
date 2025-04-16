@@ -21,5 +21,4 @@ jobs:
           fetch-depth: 0
       - uses: googleapis/release-please-action@v4
         with:
-          release-type: simple
           target-branch: ${{ github.ref_name }}
