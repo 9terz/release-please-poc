@@ -15,12 +15,12 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-        - name: Checkout code
-          uses: actions/checkout@v4
-          with:
-            fetch-depth: 0
-        - uses: googleapis/release-please-action@v4
-          with:
-            release-type: simple
-            target-branch: ${{ github.ref_name }}
-            config-file: release-please-config.yml
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: googleapis/release-please-action@v4
+        with:
+          release-type: simple
+          target-branch: ${{ github.ref_name }}
+          config-file: release-please-config.yml
