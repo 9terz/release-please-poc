@@ -23,4 +23,4 @@ jobs:
               with:
                 release-type: simple
                 target-branch: ${{ github.ref_name }}
-                config-file: .github/release-please-config.yml
+                config-file: release-please-config.yml
