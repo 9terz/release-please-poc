@@ -3,6 +3,7 @@
     "release-type": "simple",
     "changelog-sections": [
       { "type": "feat", "section": "🎉 Features Poon Poonnn" },
+      { "type": "featz", "section": "Features" },
       { "type": "fix", "section": "Bug Fixes" },
       { "type": "perf", "section": "Performance Improvements" },
       { "type": "infra", "section": "🔧 Infrastructure Changes" },
