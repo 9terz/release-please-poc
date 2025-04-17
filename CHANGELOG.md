@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.0](https://github.com/9terz/release-please-poc/compare/v1.0.0...v1.1.0) (2025-04-16)
+
+
+### Features
+
+* 1 ([54524f4](https://github.com/9terz/release-please-poc/commit/54524f429172749c08bf434487b49c3e5fe6001d))
+* new feat ([d371e5b](https://github.com/9terz/release-please-poc/commit/d371e5ba88a27228c053b6384919d50c8e126709))
+* new feat ([2c6b965](https://github.com/9terz/release-please-poc/commit/2c6b96581ed07cdad73610ad0879b7cb1c3ba044))
+
 ## 1.0.0 (2025-04-16)
 
 
