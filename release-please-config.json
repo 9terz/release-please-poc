@@ -6,6 +6,10 @@
       "type": "feat"
     },
     {
+      "section": "🔧 Infrastructure",
+      "type": "infra"
+    },
+    {
       "section": "🐛 Bug Fixes",
       "type": "fix"
     },
