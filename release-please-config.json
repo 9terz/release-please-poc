@@ -2,11 +2,11 @@
     "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
     "release-type": "simple",
     "changelog-sections": [
-      { "type": "feat", "section": "🎉 Features Poon Poonnn" },
+      { "type": "feat", "section": "Features Poon Poonnn" },
       { "type": "featz", "section": "Features" },
       { "type": "fix", "section": "Bug Fixes" },
       { "type": "perf", "section": "Performance Improvements" },
-      { "type": "infra", "section": "🔧 Infrastructure Changes" },
+      { "type": "infra", "section": "Infrastructure Changes" },
       { "type": "poc", "section": "POC"},
       { "type": "improvement", "section": "Improvements" },
       { "type": "breaking", "section": "Breaking Changes" },
