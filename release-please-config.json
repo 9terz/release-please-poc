@@ -6,10 +6,6 @@
       "type": "feat"
     },
     {
-      "section": "🔧 Infrastructure",
-      "type": "infra"
-    },
-    {
       "section": "🐛 Bug Fixes",
       "type": "fix"
     },
@@ -52,7 +48,23 @@
     {
       "section": "♻️ Code Refactoring",
       "type": "refactor"
+    },
+    {
+      "section": "🔧 Infrastructure",
+      "type": "infra"
+    },
+    {
+      "section": "🚨 Security",
+      "type": "security"
+    },
+    {
+      "section": "📦 Other",
+      "type": "*"
     }
   ],
+  "packages": {
+    ".": {
+    }
+  },
   "release-type": "simple"
 }
