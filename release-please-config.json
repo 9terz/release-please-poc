@@ -50,9 +50,5 @@
       "type": "refactor"
     }
   ],
-  "packages": {
-    ".": {
-    }
-  },
   "release-type": "simple"
 }
